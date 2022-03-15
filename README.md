@@ -1,6 +1,7 @@
 # MemeCraft
 
 **Authors**: Brady Camp, Harvey Francois, Jeffrey Jenkins, Micha Davis, Michael Campbell
+
 **Version**: 1.4.0
 
 ## Overview
@@ -184,4 +185,4 @@ meme deleted
 
 ## More Documentation
 
-Documentation for this project can be found in the [MemeCraft Documents repository](https://github.com/Deprecated-Dependencies/meme-craft-documents).
+Complete documentation for this project can be found in the [MemeCraft Documents repository](https://github.com/Deprecated-Dependencies/meme-craft-documents).
