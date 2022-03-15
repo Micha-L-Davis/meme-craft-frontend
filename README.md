@@ -4,9 +4,9 @@
 
 **Version**: 1.4.0
 
-[Deployed Site](https://meme-craft.netlify.app/)
-[Frontend Codebase](https://github.com/Micha-L-Davis/meme-craft-frontend)
-[Backend Codebase](https://github.com/Micha-L-Davis/meme-craft-backend)
+* [Deployed Site](https://meme-craft.netlify.app/)
+* [Frontend Codebase](https://github.com/Micha-L-Davis/meme-craft-frontend)
+* [Backend Codebase](https://github.com/Micha-L-Davis/meme-craft-backend)
 
 
 ## Overview
